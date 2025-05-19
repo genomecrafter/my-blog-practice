@@ -23,4 +23,6 @@ body.dark-mode {
   color: #e0e0e0;
 }
 
-
+header {
+  margin-bottom: 20px;
+}
