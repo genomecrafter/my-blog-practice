@@ -26,3 +26,14 @@ body.dark-mode {
 header {
   margin-bottom: 20px;
 }
+
+<footer>
+  <div class="widget">
+    <h4>Widget 1</h4>
+    <p>Useful links and info.</p>
+  </div>
+  <div class="widget">
+    <h4>Widget 2</h4>
+    <p>Another useful block of information.</p>
+  </div>
+</footer>
