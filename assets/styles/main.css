@@ -16,8 +16,11 @@ body {
   background-color: #0056b3;
 }
 
+
 /* Dark theme */
 body.dark-mode {
   background-color: #121212;
   color: #e0e0e0;
 }
+
+
